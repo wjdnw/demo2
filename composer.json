@@ -1,0 +1,12 @@
+{
+    "name": "wjdnw/demo2",
+    "description": "a",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gogs",
+            "email": "gogs@fake.local"
+        }
+    ],
+    "require": {}
+}
